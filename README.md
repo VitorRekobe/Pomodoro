@@ -4,4 +4,4 @@ Projeto desenvolvido nas de Front-end Senai
 sendo um site no qual possa utilizar o pomodoro com um timer fixo de 25 minutos
 <br>
 <h1> GitHub Pages </h1>
-<p>https://vitorrekobe.github.io/Pomodoro/</p>
+<a target="_blank">https://vitorrekobe.github.io/Pomodoro/</a>
