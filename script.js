@@ -9,6 +9,9 @@ var flag_stop = false;
 const decMin = () => {
     minuto = minuto - 1;
     document.querySelector('#minutes').innerText = minuto;
+    if (minuto == 0 && segundos == 0) {
+        stopp()
+    }
 }
 
 const decSeg = () => {
@@ -16,6 +19,8 @@ const decSeg = () => {
     document.querySelector('#seconds').innerText = segundos;
     if (segundos == 0) {
         segundos = 60
+    } if (minuto == 0 && segundos == 0) {
+        stopp()
     }
 }
 
