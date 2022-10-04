@@ -11,6 +11,8 @@ const decSeg = () => {
     document.querySelector('#seconds').innerText = segundos;
     if (segundos == 0) {
         segundos = 60
+        minuto = minuto - 1;
+        document.querySelector('#minutes').innerText = minuto;
     } if (minuto == 0 && segundos == 0) {
         stopp()
     }
@@ -50,3 +52,4 @@ function template() {
     document.querySelector('#seconds').innerText = '00';
     clear();
 }
+
