@@ -1,5 +1,6 @@
 # Pomodoro
-Projeto desenvolvido nas aulas de Front-end Senai 
+Projeto desenvolvido nas aulas de Front-end Senai
+<br>
 ![image](https://user-images.githubusercontent.com/98287250/201530979-5a804d34-5db1-4033-adb2-e204ff591107.png)
 <br>
 sendo um site no qual possa utilizar o pomodoro com um timer fixo de 25 minutos.
