@@ -1,8 +1,8 @@
 # Pomodoro
 Projeto desenvolvido nas aulas de Front-end Senai
-<br>
+<br><br>
 ![image](https://user-images.githubusercontent.com/98287250/201530979-5a804d34-5db1-4033-adb2-e204ff591107.png)
-<br>
+<br><br>
 sendo um site no qual possa utilizar o pomodoro com um timer fixo de 25 minutos.
 <br>
 Ele ainda não está 100% funcional, já que o valor é fixo, e não está tão apresentavel por assim dizer, 
