@@ -5,7 +5,7 @@ Projeto desenvolvido nas aulas de Front-end Senai
 <br><br>
 sendo um site no qual possa utilizar o pomodoro com um timer fixo de 25 minutos.
 <br>
-Ele ainda não está 100% funcional, já que o valor é fixo, e não está tão apresentavel por assim dizer, 
+Ele ainda não está 100% funcional, já que o valor é fixo, 
 <br>
 Entretanto o resultado está satisfatorio no momento,
 <br>
