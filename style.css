@@ -41,7 +41,7 @@ button{
 @media (max-width:400px){
     .Principal{
         padding-top: 10vh; 
-        font-size: 28px;
+        font-size: 25px;
     }
 
     button{
