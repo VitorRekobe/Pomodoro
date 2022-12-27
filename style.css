@@ -7,14 +7,15 @@ body {
     background: linear-gradient(0deg, rgba(74,34,195,1) 0%, rgba(255,63,63,1) 100%);
     background-repeat: no-repeat;
     height: 100vh;
+    display: flex;
+    align-items: center;
 }
 
 button{
-    height: 50px;
-    width: 100px;
+    width: 50%;
     border-radius: 10px;
     border: 0;
-    font-size: 25px;
+    font-size: clamp(1em, 0.75em + 1vw, 10em);
     z-index: 2;
     background-color: rgba(255, 239, 239, 0.404);
     cursor: pointer;
@@ -27,8 +28,7 @@ button{
     width: 80vw;
     margin: auto;
     text-align: center;
-    padding-top: 20vh;
-    font-size: 30px;
+    font-size: clamp(1.5em, 1.5em + 2vw, 10em);
 }
 
 .timer{
@@ -38,11 +38,7 @@ button{
     margin-bottom: 20px;
 }
 
-@media (max-width:400px){
-    .Principal{
-        padding-top: 10vh; 
-        font-size: 25px;
-    }
+@media (max-width:600px){
 
     button{
         width: 100%;
